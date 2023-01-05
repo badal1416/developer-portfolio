@@ -29,6 +29,16 @@ nav li {
 .text-primary{
   color: #FD6E0A;
 }
+.button-primary-phone{
+  color: #0b0b0b;
+  font-weight: 700;
+  font-size: 20px;
+  border: 0;
+  padding: 18px 35px;
+  height: 64px;
+  border-radius: 5px;
+  background-color: #757575;
+}
 .button-primary{
   color: #FFFFFF;
   font-weight: 700;
